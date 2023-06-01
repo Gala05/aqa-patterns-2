@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/fip4ewacu9t5f1gi?svg=true)](https://ci.appveyor.com/project/Gala05/aqa-patterns-2)
